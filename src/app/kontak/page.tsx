@@ -39,7 +39,7 @@ export default function KontakPage() {
               Hubungi Kami
             </h1>
             <p className="text-xl text-green-100 max-w-2xl mx-auto">
-              Silakan hubungi kami untuk informasi lebih lanjut atau saran dan masukan
+              Silakan hubungi kami untuk informasiI lebih lanjut atau saran dan masukan
             </p>
           </div>
         </section>
